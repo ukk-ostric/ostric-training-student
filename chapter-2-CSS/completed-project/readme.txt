@@ -1,1 +1,0 @@
-untuk membuat icon bisa di favicon.io

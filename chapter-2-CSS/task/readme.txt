@@ -8,7 +8,7 @@ WAJIB MENAMBAKHKAN!! di footer(dibawh) pada "Design By Ayokunle Oriolowo" di lin
 
 
 ==== WAKTU PENGUMPULAN ======
-1 DESEMBER 2020 PUKUL 18:00
+1 NOVEMBER 2020 PUKUL 18:00
 LINK https://forms.gle/AZyA8ovMmX3mTfMA6
 
 

@@ -1,0 +1,10 @@
+==TUGAS==
+1. Untuk memulai game klik dulu any key di keyboard
+2. Memunculkan pilihan warna yang harus di klik
+3. User memilih warna sesuai yang dimunculkan
+4. Ketika user berhasil maka akan memunculkan warna lain
+5. User memilih warna dari awal sampai akhir
+6. ketika user salah memilih warna maka game over
+
+Deadline = "1 December"
+Link = bit.ly/tugas-ostric
